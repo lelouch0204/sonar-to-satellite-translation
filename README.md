@@ -4,4 +4,4 @@ This repository contains my work for the research project under Dr Amitesh Singh
 # Architecture
 
 # Comparision of Generated images
-![Comparision of Methods] (Images/comparision.png)
+![Comparision of Methods](Images/comparision.png)
